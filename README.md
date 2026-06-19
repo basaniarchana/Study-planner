@@ -1,1 +1,1 @@
-# Study-planner
+Study Planner is a web application designed to help students organize their studies effectively. The student enters their syllabus and the number of hours they can study each day. Based on this information, the system automatically creates a personalized study plan by dividing the syllabus into manageable tasks and scheduling them across the available study hours. The main goal of the project is to help students manage their time better, stay consistent, and complete their syllabus before exams.
